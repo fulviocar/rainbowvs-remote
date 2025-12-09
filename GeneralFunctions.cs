@@ -11,6 +11,7 @@ namespace VSTestWithGit
             Console.WriteLine("This is the first");
             Console.WriteLine("This is the second");
             Console.WriteLine("This is the third");
+            Console.WriteLine("This is the fourth");
         }
     }
 }
