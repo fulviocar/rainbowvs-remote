@@ -4,11 +4,11 @@ using System.Text;
 
 namespace VSTestWithGit
 {
-    public class Program
+    public class GeneralFunctions
     {
-        static void Main()
+        public static void m1()
         {
-            GeneralFunctions.m1();
+            Console.WriteLine("This is the first");
         }
     }
 }
